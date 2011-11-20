@@ -1,0 +1,10 @@
+After finding a 360 degree panorama on Wikipedia, I wanted to view it properly.
+When I noticed that a Java plugin was required for something so simple, I set out to do it myself.
+
+There are few things left to do:
+- Show errors if browser doesn't support stylesheets/javascript, etc
+- Show a loading screen (many photo's take a while to download)
+- (Possibly) add buttons to allow moving the view without a keyboard.
+
+That's all I can think of...
+- JD.
